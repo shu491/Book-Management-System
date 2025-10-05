@@ -1,0 +1,26 @@
+9780349142920,Celeste Ng,Little Fires Everywhere,Abacus,Fiction,2018,01-05-2023,read
+9780450040184,Stephen King,The Shining,Signet,Horror,1978,09-03-2020,to-read
+9780345250278,Ray Bradbury,Fahrenheit 451,Ballantine Books,Fiction,1976,25-07-2023,read
+9781593275846,Eben Hewitt,Cassandra: The Definitive Guide,Reilly Media,Programming,2016,08-10-2023,to-read
+9780345539416,George R.R. Martin,A Game of Thrones,Bantam Books,Fantasy,1996,20-03-2020,read
+9781524725392,Rupi Kaur,Milk and Honey,Andrews McMeel,Poetry,2014,14-06-2022,read
+9780316381837,Ruth Ware,The Women in Cabin 10,Gallery,Thriller,2016,08-03-2023,to-read
+9780753812358,yo,American Gods,William Morrow,Fantasy,2001,22-09-2022,read
+9781101870092,Ta-Nehisi Coates,Between the world and Me,Spiegel & Grau,Non-fiction,2015,07-10-2021,read
+9780143034759,Malcolm X,The Autobiography of Malcolm X,Penguin Books,Biography,1965,28-10-2020,read
+9781101622881,Andy Weir,The Martian,Broadway Books,Fiction,2011,15-11-2023,to-read
+9780812972864,Gillian Flynn,Gone Girl,Crown Publishing Group,Thriller,2012,20-06-2022,to-read
+9780060587011,Jhumpa Lahiri,The Namesake,Mariner Books,Fiction,2003,16-03-2020,to-read
+9780553576884,Margaret Atwood,The Handmaid's Tale,Anchor Books,Dystopian,1985,18-05-2022,to-read
+9780545010223,J.K. Rowling,Harry Potter and the Sorcerer's Stone,Scholastic,Fantasy,1997,08-06-2022,read
+9780553418026,Haruki Murakami,Kafka on the Shore,Knopf,Fiction,2002,30-10-2023,to-read
+9780812923173,Erik Larson,The Devil in the White City,Vintage Books,History,2003,14-02-2020,to-read
+9781408855878,Anthony Doer,All the Light We Cannot See,Scribner,Historical Fiction,2014,07-01-2020,to-read
+9780140274144,George Orwell,1984,Signet,Fiction,1949,29-08-2023,to-read
+9780099908401,Paulo Coelho,The Alchemist,HarperOne,Fiction,1988,20-10-2020,read
+9780446328313,Agatha Christie,Murder on the Orient Express,HarperCollins,Crime Fiction,1934,20-06-2022,to-read
+9781524795589,Colson Whitehead,The Underground Railroad,Doubleday,Historical Fiction,2016,28-09-2023,read
+9780307265636,Michelle Alexander,The New Jim Crow,The New Press,Social Justice,2010,20-02-2022,read
+9827382388,eee,eee,eee,e,2023,09-09-2023,read
+11111111111,e,e,e,e,2023,09-09-2023,read
+
