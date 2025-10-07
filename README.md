@@ -33,7 +33,7 @@ The Malatang Book Management System is a command-line application that allows us
 ```bash
 # Clone the repository
 git clone https://github.com/shu491/Book-Management-System.git
-cd malatang-book-management
+cd Book-Management-System
 
 # Run the application
-python malatang_book_system.py
+python Book-Management-System
